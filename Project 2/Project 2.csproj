@@ -84,7 +84,6 @@
     <Content Include="images\GasMoney.jpg" />
     <Content Include="images\save_money_gas.jpg" />
     <Content Include="index.aspx" />
-    <Content Include="index.html" />
     <Content Include="jquery-ui.min.js" />
     <Content Include="news.html" />
     <Content Include="Web.config">
